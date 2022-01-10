@@ -1,4 +1,4 @@
-# Sistem Penunjang Keputusan Karyawan tetap pada Perusahaan X
+# Sistem Penunjang Keputusan Karyawan tetap pada Perusahaan
 
 SI Karyawan Tetap dengan metode SAW (Simple Additive Weighting)
 
